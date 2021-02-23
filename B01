@@ -1,0 +1,1 @@
+bool isA = (90 <= grade && grade <= 100);
