@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615378222 source:c:\users\darka\desktop\sdl\untitled1.cpp
+	<iostream>
+	<SDL.h>
+
